@@ -1,4 +1,4 @@
-📈 Web Scraping Nepal Stock Exchange (NEPSE) Data and Storing in PostgreSQL
+---- Web Scraping Nepal Stock Exchange (NEPSE) Data and Storing in PostgreSQL
 
 Instructor: Pujan Dahal
 
